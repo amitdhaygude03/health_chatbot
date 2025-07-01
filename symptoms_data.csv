@@ -1,0 +1,91 @@
+ID,Text,Label
+1,It feels like someone is squeezing my chest.,Chest Pain
+2,My chest feels tight and uncomfortable.,Chest Pain
+3,It feels like someone is squeezing my chest.,Chest Pain
+4,There's a burning sensation in my chest.,Chest Pain
+5,I'm experiencing stabbing pains in my chest.,Chest Pain
+6,It feels like someone is squeezing my chest.,Chest Pain
+7,It feels like someone is squeezing my chest.,Chest Pain
+8,My chest feels tight and uncomfortable.,Chest Pain
+9,My chest hurts whenever I breathe deeply.,Chest Pain
+10,I have a sharp pain in my chest.,Chest Pain
+11,I feel like there's something stuck in my throat when I cough.,Cough
+12,I can't seem to stop coughing.,Cough
+13,My cough is keeping me up at night.,Cough
+14,My cough is accompanied by wheezing.,Cough
+15,I'm coughing so hard that it hurts my chest.,Cough
+16,My cough is dry and irritating.,Cough
+17,My cough is keeping me up at night.,Cough
+18,I have a hacking cough.,Cough
+19,I have a hacking cough.,Cough
+20,I have a persistent cough.,Cough
+21,I'm gasping for breath.,Shortness of Breath
+22,I'm experiencing chest tightness along with shortness of breath.,Shortness of Breath
+23,I'm struggling to take deep breaths.,Shortness of Breath
+24,I feel like I can't get enough air into my lungs.,Shortness of Breath
+25,I'm having difficulty breathing during physical activity.,Shortness of Breath
+26,My shortness of breath is getting progressively worse.,Shortness of Breath
+27,I'm struggling to take deep breaths.,Shortness of Breath
+28,I feel like I can't get enough air into my lungs.,Shortness of Breath
+29,I'm having difficulty breathing during physical activity.,Shortness of Breath
+30,My breathing feels labored and shallow.,Shortness of Breath
+31,There's a continuous whistling sound coming from my chest.,Wheezing
+32,There's a continuous whistling sound coming from my chest.,Wheezing
+33,My wheezing is worse at night.,Wheezing
+34,My breathing feels constricted with wheezing.,Wheezing
+35,I hear a whistling sound when I breathe.,Wheezing
+36,My breathing is accompanied by a high-pitched noise.,Wheezing
+37,I have a rattling sound in my chest when I breathe.,Wheezing
+38,I have a rattling sound in my chest when I breathe.,Wheezing
+39,There's a continuous whistling sound coming from my chest.,Wheezing
+40,I hear a whistling sound when I breathe.,Wheezing
+41,My fatigue is making me feel depressed.,Fatigue
+42,My fatigue is making me feel depressed.,Fatigue
+43,I have no motivation to do anything due to my fatigue.,Fatigue
+44,I wake up feeling tired even after a full night's sleep.,Fatigue
+45,I wake up feeling tired even after a full night's sleep.,Fatigue
+46,I'm experiencing extreme fatigue that doesn't improve with rest.,Fatigue
+47,I'm struggling to stay awake during the day.,Fatigue
+48,I feel exhausted all the time.,Fatigue
+49,My fatigue is affecting my ability to concentrate.,Fatigue
+50,I'm constantly tired no matter how much I rest.,Fatigue
+51,I'm experiencing sharp pains in my head.,Headache
+52,I'm experiencing nausea along with the headache.,Headache
+53,I'm experiencing sharp pains in my head.,Headache
+54,My headache is throbbing and intense.,Headache
+55,My head feels like it's splitting open.,Headache
+56,I'm experiencing nausea along with the headache.,Headache
+57,My headache gets worse when I move or bend over.,Headache
+58,I'm experiencing sharp pains in my head.,Headache
+59,I'm experiencing sharp pains in my head.,Headache
+60,I'm finding it hard to focus because of the headache.,Headache
+61,I feel like I'm going to throw up any moment.,Vomiting
+62,I feel like I'm going to throw up any moment.,Vomiting
+63,I'm nauseous and vomiting.,Vomiting
+64,I'm nauseous and vomiting.,Vomiting
+65,My vomiting is projectile.,Vomiting
+66,My vomiting is persistent and uncontrollable.,Vomiting
+67,My vomiting is persistent and uncontrollable.,Vomiting
+68,I'm nauseous and vomiting.,Vomiting
+69,I'm retching and dry heaving.,Vomiting
+70,I'm vomiting after every meal.,Vomiting
+71,I can't seem to warm up no matter how many blankets I use.,Chills
+72,I'm shivering uncontrollably.,Chills
+73,My chills are accompanied by a fever.,Chills
+74,I'm shivering uncontrollably.,Chills
+75,I feel like I'm freezing even though it's warm.,Chills
+76,I feel like I'm freezing even though it's warm.,Chills
+77,I'm chilled to the bone.,Chills
+78,I feel weak and achy because of the chills.,Chills
+79,I'm chilled to the bone.,Chills
+80,I'm shivering uncontrollably.,Chills
+81,I'm burning up with fever.,Fever
+82,My body feels hot to the touch because of the fever.,Fever
+83,I'm sweating profusely due to the fever.,Fever
+84,I'm burning up with fever.,Fever
+85,My body feels hot to the touch because of the fever.,Fever
+86,I'm experiencing hot flashes along with fever.,Fever
+87,My fever won't come down despite taking medication.,Fever
+88,I'm feeling delirious and disoriented due to the fever.,Fever
+89,I have a high fever.,Fever
+90,I'm experiencing hot flashes along with fever.,Fever
